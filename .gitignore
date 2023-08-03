@@ -1,0 +1,77 @@
+frontend/node_modules
+frontend/.pnp
+frontend/.pnp.js
+
+# testing
+frontend/coverage
+
+# next.js
+frontend/.next/
+frontend/out/
+
+# production
+frontend/build
+
+# misc
+frontend/.DS_Store
+frontend/*.pem
+
+# debug
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+frontend/.pnpm-debug.log*
+
+# local env files
+frontend/.env
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
+
+# vercel
+frontend/.vercel
+
+# typescript
+frontend/*.tsbuildinfo
+frontend/node_modules
+
+#backend
+backend/node_modules
+
+#admin
+admin/node_modules
+admin/.pnp
+admin/.pnp.js
+
+# testing
+admin/coverage
+
+# next.js
+admin/.next/
+admin/out/
+
+# production
+admin/build
+
+# misc
+admin/.DS_Store
+admin/*.pem
+
+# debug
+admin/npm-debug.log*
+admin/yarn-debug.log*
+admin/yarn-error.log*
+admin/.pnpm-debug.log*
+
+# local env files
+admin/.env
+admin/.env.development.local
+admin/.env.test.local
+admin/.env.production.local
+
+# vercel
+admin/.vercel
+
+# typescript
+admin/*.tsbuildinfo
+admin/node_modules
